@@ -1,9 +1,9 @@
 # msray
 Meta Search Ray，简称msray。 是一款特色并行式元搜索引擎的扩展加强版。
 
-官网： https://www.msray.net
+官网： http://www.msray.net
 
-在线文档： https://www.msray.net/doc
+在线文档： http://www.msray.net/doc
 
 可根据使用者提供的关键词，自动从多个搜索引擎获取搜索结果数据, 并且支持自动去重复、多种定制化功能如过滤、导出、推送等，便于数据分析与处理。并同时具有系统自带引擎，可无限抓取互联网公开内容。
 
